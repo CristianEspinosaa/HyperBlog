@@ -18,3 +18,17 @@ body{
 #main-container h1{
     font-size: 40px;
 }
+
+#cabecera{
+    margin: 0;
+    width: 100%;
+    border: solid 1px blue;
+    background-color: blue;
+    color: white;
+    font-weight: 300;
+}
+
+#cabecera spam {
+    font-weight: bold;
+    
+}
